@@ -1,6 +1,6 @@
 
 # Hey, I'm Marcos Eduardo 👨🏻‍💻🔥
-**`Desenvolvedor em evoluição | Acadêmico de Análise e Desenvolvimento de Sistemas`**
+**`Desenvolvedor em evolução | Acadêmico de Análise e Desenvolvimento de Sistemas`**
 
 ---
 
