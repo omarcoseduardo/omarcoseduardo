@@ -15,14 +15,14 @@ Busco sempre unir conhecimento técnico e criatividade para gerar valor, contrib
   <a href="https://www.instagram.com/marcoseduardo279/">
     <img 
       alt="Instagram" 
-      src="https://img.shields.io/badge/Instagram-%40marcoseduardo279-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-%40marcoseduardo279-%23E4405F?color=405DE6&labelColor=E1306C&style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
 
   <a href="https://github.com/omarcoseduardo?tab=followers">
     <img 
       alt="Seguidores" 
-      src="https://custom-icon-badges.demolab.com/github/followers/omarcoseduardo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+      src="https://custom-icon-badges.demolab.com/github/followers/omarcoseduardo?color=C13584&labelColor=5B51D8&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
   </a>
 </div>
