@@ -74,21 +74,21 @@ Busco sempre unir conhecimento técnico e criatividade para gerar valor, contrib
   <img align="left"
     alt="Java"
     width="30px"
-    style="padding-right:20px;"
+    style="padding-right:30px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
     />
 
   <img align="left"
     alt="MySQL"
     width="30px"
-    style="padding-right:20px;"
+    style="padding-right:30px;"
     src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000"
     />
 
   <img align="left"
     alt="DBeaver"
     width="30px"
-    style="padding-right:20px;"
+    style="padding-right:30px;"
     src="https://github.com/user-attachments/assets/ff1c2701-f7f4-4490-b5fa-f50f09a7bc33"
     />
 
