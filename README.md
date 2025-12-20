@@ -105,9 +105,4 @@ Busco sempre unir conhecimento técnico e criatividade para gerar valor, contrib
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omarcoseduardo&theme=tokyonight"
     alt="Summary Card"
   />
-
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=omarcoseduardo&theme=tokyonight"
-    alt="Trophy"
-  />
 </div>
