@@ -29,9 +29,6 @@ Busco sempre unir conhecimento técnico e criatividade para gerar valor, contrib
 
 ##
 <br/>
-<br/>
-<br/>
-<br/>
 
 <p align="center">
   <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpnd2EzeDN5Y29pa3cwNmxuZXN3cHV5djYwdHB5dnRrbzdxMXZsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif alt="Gif legal" width="180px" />
