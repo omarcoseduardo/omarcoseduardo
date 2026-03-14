@@ -10,7 +10,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e um desenvolvedor em ev
 Busco sempre unir conhecimento técnico e criatividade para gerar valor, contribuindo para o crescimento de equipes, organizações e de qualquer pessoa envolvida no processo. Estou em desenvolvimento contínuo, construindo minha base como profissional de tecnologia e avançando a cada projeto, desafio e aprendizado.
 
 ##
-
+<br/>
 <div align="center"> 
   <a href="https://www.instagram.com/marcoseduardo279/">
     <img 
@@ -26,6 +26,12 @@ Busco sempre unir conhecimento técnico e criatividade para gerar valor, contrib
     />
   </a>
 </div>
+
+##
+
+<br/>
+<br/>
+<br/>
 
 <p align="center">
   <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpnd2EzeDN5Y29pa3cwNmxuZXN3cHV5djYwdHB5dnRrbzdxMXZsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif alt="Gif legal" width="180px" />
