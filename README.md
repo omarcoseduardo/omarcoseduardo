@@ -28,9 +28,6 @@ Busco sempre unir conhecimento técnico e criatividade para gerar valor, contrib
 </div>
 
 ##
-
-<br/>
-<br/>
 <br/>
 
 <p align="center">
