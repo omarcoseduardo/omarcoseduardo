@@ -35,11 +35,16 @@ Busco sempre unir conhecimento técnico e criatividade para gerar valor, contrib
 </p>
 
 ---
+<br/>
 
 ### | Technologies and learning
 #### I am studying and gradually improving in:
+<br/>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,postgres,git)](https://skillicons.dev)
+<br/>
+<br/>
+
 ---
 
 ### | Statistics
