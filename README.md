@@ -36,65 +36,7 @@ Busco sempre unir conhecimento técnico e criatividade para gerar valor, contrib
 ### | Technologies and learning
 #### I am studying and gradually improving in:
 
-<div align="center"> 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img
-  align="left" 
-  alt="Git" 
-  width="30px" 
-  style="padding-right:20px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-  />
-
-  <img align="left"
-    alt="Java"
-    width="30px"
-    style="padding-right:30px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-    />
-
-  <img align="left"
-    alt="MySQL"
-    width="30px"
-    style="padding-right:30px;"
-    src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000"
-    />
-
-  <img align="left"
-    alt="DBeaver"
-    width="30px"
-    style="padding-right:30px;"
-    src="https://github.com/user-attachments/assets/ff1c2701-f7f4-4490-b5fa-f50f09a7bc33"
-    />
-
-</div>
-<br/>
-<br/>
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,postgres,git)](https://skillicons.dev)
 ---
 
 ### | Statistics
